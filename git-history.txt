@@ -1,0 +1,35 @@
+commit b1e699fedefd9ad18eae3c5d4520d87f96bfcb5d (HEAD -> main, origin/main, origin/HEAD)
+Author: Sofiiia18 <sonasavcenko8@gmail.com>
+Date:   Sun Feb 5 13:25:35 2023 +0100
+
+    Renamed file
+
+commit c313b9c2eee9faccc0c2ba70f52f5a0885279acc
+Author: Sofiiia18 <sonasavcenko8@gmail.com>
+Date:   Sun Feb 5 13:23:29 2023 +0100
+
+    Added next three  sentences of 'Lorem Ipsum'
+
+commit b7865cb50c712a1b4df28e304ef132731426a190
+Author: Sofiiia18 <sonasavcenko8@gmail.com>
+Date:   Sun Feb 5 13:15:19 2023 +0100
+
+    Add Lorem Ipsum first sentence
+
+commit d55e8c1e1f89e7b7aa339de1d942cda397d43926
+Author: Sofiiia18 <sonasavcenko8@gmail.com>
+Date:   Sun Feb 5 13:10:30 2023 +0100
+
+    add ignoring the temp folder
+
+commit e44412fdb3b30a4991154d633c804a6b1e1ba071
+Author: Sofiiia18 <sonasavcenko8@gmail.com>
+Date:   Sun Feb 5 12:54:54 2023 +0100
+
+    add ignoring  the tmp extension
+
+commit 4ce80abb76ee5f908cb733038a1dea4f6db749fb
+Author: Sofiiia18 <sonasavcenko8@gmail.com>
+Date:   Sun Feb 5 12:21:22 2023 +0100
+
+    Initial commit
